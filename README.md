@@ -15,4 +15,4 @@ Em evolução por criar interface moderna com HTML, CSS e sei bem pouco JAVASCRI
 *Ensino Médio Completo* – Colégio Estadual Santa Cruz – 2024 
 
 # Contato
-@amarcile207@gmail.com
+amarcile207@gmail.com
